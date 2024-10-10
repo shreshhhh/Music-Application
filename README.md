@@ -1,6 +1,6 @@
 # Project Name: Music Application 🎶
 
-###Pictures are in Folder
+### Pictures are in Folder
  
 ## Overview
 The application has both a frontend and a backend, with **React** used for the client-side and **Node.js** for the server-side. It allows you to add songs with their respective artists and genres. You can also delete and edit the songs.

@@ -9,8 +9,7 @@ The application has both a frontend and a backend, with **React** used for the c
 - 🎵 Add your favourite music with a description.
 - ✏️ Ability to edit music entries.
 - 🗑️ Ability to delete music entries.
-- 🖼 Responsive design for mobile and desktop.
-- 🔄 Automatically updates the year in the footer.
+- 🖼 Responsive design.
 - 💻 Built with **React** and **Node.js**.
 - 🌐 Concurrently runs both client and server during development.
 
